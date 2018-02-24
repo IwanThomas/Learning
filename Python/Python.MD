@@ -9,6 +9,7 @@ A list of learning materials that I plan to cover.
     * [Drastically Improve Your Understanding: Jeff Knupp: Python's Execution Mode]
     * [Nate Batchelder: Loop like a native]
     * [Columbia Data Scientist Style Guide]
+    * [Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
 
 * **Writing Pythonic Code**
     * Guidelines For Writing Pythonic Code
@@ -25,6 +26,8 @@ A list of learning materials that I plan to cover.
     * [Writing Idiomatic Python - Jeff Knupp]
     * [Stanford CS 41: Idiomatic Python]
     * [Another Tutorial On How To Write Pythonic Code]
+    * [A long list of Python Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#statistics-machine-learning-and-data-science)
+    *[Dive into Python](http://www.diveintopython.net/toc/index.html)
 
 * **iPython Notebook**
     
@@ -53,6 +56,7 @@ A list of learning materials that I plan to cover.
 * **Data Visualization**
 
     * [BIDS: Python Bootcamp: Intro to Matplotlib]: The 800 pound gorilla, everything is customizable, but very low level
+    * [Good Matplotlib Tutorial](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
     * [Seaborn]: Good for statistical visualization. I still find it a bit limited on the type of simple plots it can do
     * [Bokeh]: Interactive, web browser base data visualization
     * [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]
