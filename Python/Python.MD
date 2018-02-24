@@ -88,6 +88,12 @@ A list of learning materials that I plan to cover.
     * [Improve Your Python: Jeff Knupp: Understanding Unit Testing]
     * [BIDS: Python Bootcamp: Test Driven Development]
     * [Software Carpentry: Testing]
+    
+* **Software Engineering**
+    
+    * Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)
+    * The Pragmatic Programmer 
+    * Code Complete: A Practical Handbook of Software Construction
 
 ## Next Steps / Level In 2017
 
