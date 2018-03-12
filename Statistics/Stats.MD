@@ -9,3 +9,4 @@ Supplement my existing theoretical statistics knowledge with more practical stuf
 - [NB Classifier from Scratch](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
 - [Some good advice on what to Learn from KDNuggets](https://www.kdnuggets.com/2016/08/statistics-topics-needed-excelling-data-science.html)
 - Supposed to be a good Probability book: Probability Theory: The Logic of Science: Principles and Elementary Applications Vol 1
+- [Demos of key statistical principles](http://wise.cgu.edu/)
