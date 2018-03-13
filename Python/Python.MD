@@ -10,6 +10,7 @@ A list of learning materials that I plan to cover.
     * [Nate Batchelder: Loop like a native]
     * [Columbia Data Scientist Style Guide]
     * [Hitchhiker's guide to Python](http://docs.python-guide.org/en/latest/)
+    * [Intermediate Python Tips](http://book.pythontips.com/en/latest/index.html)
 
 * **Writing Pythonic Code**
     * Guidelines For Writing Pythonic Code
