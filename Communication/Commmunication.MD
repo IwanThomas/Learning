@@ -8,4 +8,6 @@ Some tips when it comes to effective communication:
 - Use pictorial representations where possible.
 - Use layman’s terms as much as possible.
 
+Work towards an ability to interpret and summarize results broadly for technical and non-technical audiences
+
 
