@@ -10,6 +10,7 @@ Supplement my existing theoretical statistics knowledge with more practical stuf
 - [Some good advice on what to Learn from KDNuggets](https://www.kdnuggets.com/2016/08/statistics-topics-needed-excelling-data-science.html)
 - Supposed to be a good Probability book: Probability Theory: The Logic of Science: Principles and Elementary Applications Vol 1
 - [What looks like a good A/B Testing Resource Page](http://exp-platform.com/)
+- [Microsoft A/B Testing Learnings](http://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf)
 - [Demos of key statistical principles](http://wise.cgu.edu/)
 - Some advice on what to learn hrom [here](https://www.quora.com/What-should-I-study-or-learn-if-I-want-to-be-a-data-analyst-for-a-software-company-like-Quora-Zynga-Airbnb-etc)
 1. Research design/methodology 
