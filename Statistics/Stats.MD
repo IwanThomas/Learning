@@ -12,6 +12,9 @@ Supplement my existing theoretical statistics knowledge with more practical stuf
 - [What looks like a good A/B Testing Resource Page](http://exp-platform.com/)
 - [Microsoft A/B Testing Learnings](http://www.exp-platform.com/Documents/controlledExperimentDMKD.pdf)
 - [Demos of key statistical principles](http://wise.cgu.edu/)
+- [And Another](http://statpages.info/index.html)
+- [Interesting Talk of Type I and Type II errors applied to the justice system](http://www.intuitor.com/statistics/T1T2Errors.html
+)
 - Some advice on what to learn hrom [here](https://www.quora.com/What-should-I-study-or-learn-if-I-want-to-be-a-data-analyst-for-a-software-company-like-Quora-Zynga-Airbnb-etc)
 1. Research design/methodology 
 - Ability to set up experiments properly, with careful attention to control groups and confounding variables
