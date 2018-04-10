@@ -41,6 +41,8 @@ A list of learning materials that I plan to cover.
     * Introduction to Numpy
         * [BIDS: Python Bootcamp: Intro to Numpy]
         * [Stanford ICME 193: Scientific Python]
+        
+    * [Writing idiomatic Pandas](http://tomaugspurger.github.io/modern-1-intro.html)
     
     * Introduction to Pandas
         * [Dplyr/pandas Vignette Comparison]
