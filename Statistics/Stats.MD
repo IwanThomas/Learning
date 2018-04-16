@@ -15,6 +15,7 @@ Supplement my existing theoretical statistics knowledge with more practical stuf
 - [And Another](http://statpages.info/index.html)
 - [Interesting Talk of Type I and Type II errors applied to the justice system](http://www.intuitor.com/statistics/T1T2Errors.html
 )
+- [Problems with Stepwise Regression](https://www.stata.com/support/faqs/statistics/stepwise-regression-problems/)
 - Some advice on what to learn hrom [here](https://www.quora.com/What-should-I-study-or-learn-if-I-want-to-be-a-data-analyst-for-a-software-company-like-Quora-Zynga-Airbnb-etc)
 1. Research design/methodology 
 - Ability to set up experiments properly, with careful attention to control groups and confounding variables
