@@ -2,3 +2,4 @@
 - [Skills Hard to find in Machine Learners](https://stats.stackexchange.com/questions/104500/skills-hard-to-find-in-machine-learners/104533#104533)
 - [The Two Cultures: statistics vs. machine learning?](https://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning/142288#142288)
 - [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+- [ML Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
