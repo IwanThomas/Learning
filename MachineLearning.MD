@@ -3,3 +3,4 @@
 - [The Two Cultures: statistics vs. machine learning?](https://stats.stackexchange.com/questions/6/the-two-cultures-statistics-vs-machine-learning/142288#142288)
 - [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [ML Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- [Neural Networks e-book](http://neuralnetworksanddeeplearning.com/chap3.html)
